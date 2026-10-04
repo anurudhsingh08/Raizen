@@ -1,0 +1,47 @@
+========================================
+RAIZEN — COMPLETE ASSETS GUIDE
+========================================
+
+1) CHARACTER PHOTOS (38 characters)
+   Folder: assets/images/characters/
+   Exact lowercase names:
+
+   gojo.png yuji.png megumi.png nobara.png nanami.png
+   yuta.png maki.png todo.png sukuna.png geto.png
+   mahito.png choso.png toji.png hakari.png higuruma.png
+   yuki.png kashimo.png panda.png inumaki.png shoko.png
+   jogo.png hanami.png dagon.png kenjaku.png naoya.png
+   uraume.png ryu.png uro.png meimei.png angel.png
+   mai.png miwa.png mechamaru.png utahime.png takaba.png
+   yorozu.png junpei.png uiui.png
+
+   Format: PNG/JPG/WEBP — ~400x500 portrait
+   Missing file = animated letter placeholder
+
+2) MUSIC
+   assets/audio/bgm.mp3
+   assets/audio/battle.mp3
+   assets/audio/summon.mp3
+
+3) DOMAIN VIDEOS
+   assets/videos/
+   unlimitedvoid.mp4 malevolent.mp4 selfembodiment.mp4
+   chimera.mp4 idlegamble.mp4 deadlysentence.mp4
+   authenticlove.mp4 horizon.mp4 coffin.mp4
+   timecell.mp4 wombprofusion.mp4
+
+4) OPTIONAL
+   assets/images/ui/logo.png
+   assets/images/domains/*.png
+   assets/icons/icon-192.png icon-512.png
+
+========================================
+FEATURES IN THIS BUILD
+========================================
+- 38 JJK characters + enemy pool
+- Battle 2D anims, dialogues, CE, barriers
+- Domains + CSS cinematic + video player
+- Daily news, summon, team, training, quests
+- Music bar (3 tracks), PWA manifest
+
+Unofficial fan prototype. Not affiliated with Gege Akutami / Shueisha / MAPPA.
